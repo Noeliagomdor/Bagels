@@ -5,12 +5,14 @@ In Bagels, a deductive logic game, you must guess a secret three-digit number ba
 
 ## Examples
 
-secret number --> 546
-> 123
+secret number --> 546  
+> 123  
 Bagels
-> 476
-Fermi
+
+> 476  
+Fermi  
 Pico
+
 
 ## How to use
 
